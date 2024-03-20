@@ -1,3 +1,5 @@
+import streamlit as st
+
 # Tytuł aplikacji
 st.title('Demo formularza Streamlit')
 
